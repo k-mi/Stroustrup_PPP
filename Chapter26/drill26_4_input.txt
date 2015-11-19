@@ -1,0 +1,37 @@
+{ 1.1 Bohr { Bohr Darwin Einstein Lavoisier Newton Turing } 1 }
+{ 1.2 Lavoisier { Bohr Darwin Einstein Lavoisier Newton Turing } 1 }
+{ 1.3 Turing { Bohr Darwin Einstein Lavoisier Newton Turing } 1 }
+{ 1.4 Bentu { Bohr Darwin Einstein Lavoisier Newton Turing } 0 }
+{ 1.5 Faburu { Bohr Darwin Einstein Lavoisier Newton Turing } 0 }
+{ 1.6 Schliemann { Bohr Darwin Einstein Lavoisier Newton Turing } 0 }
+
+{ 2.1 Einstein { } 0 }
+{ 2.2 Newton { } 0 }
+
+{ 3.1 Newton { Newton } 1 }
+{ 3.2 Einstein { Newton } 0 }
+{ 3.3 Turing { Newton } 0 }
+
+{ 4.1 Darwin { Darwin Einstein } 1 }
+{ 4.2 Einstein { Darwin Einstein } 1 }
+{ 4.3 Bohr { Darwin Einstein } 0 }
+{ 4.4 Newton { Darwin Einstein } 0 }
+
+{ 5.1 Einstein { Einstein Lavoisier Newton } 1 }
+{ 5.2 Newton { Einstein Lavoisier Newton } 1 }
+{ 5.3 Faburu { Einstein Lavoisier Newton } 0 }
+{ 5.4 Turing { Einstein Lavoisier Newton } 0 }
+
+{ 6.1 Darwin { Darwin Darwin Darwin Darwin Darwin Darwin } 1 }
+{ 6.2 Bohr { Darwin Darwin Darwin Darwin Darwin Darwin } 0 }
+{ 6.3 Einstein  { Darwin Darwin Darwin Darwin Darwin Darwin } 0 }
+
+{ 7.1 Darwin { Darwin Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein } 1 }
+{ 7.2 Einstein { Darwin Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein } 1 }
+{ 7.3 Bohr { Darwin Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein } 0 }
+{ 7.4 Moore { Darwin Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein Einstein } 0 }
+
+{ 8.1 Darwin { Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Einstein } 1 }
+{ 8.2 Einstein { Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Einstein } 1 }
+{ 8.3 Bohr { Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Einstein } 0 }
+{ 8.4 Moore { Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Darwin Einstein } 0 }

@@ -1,0 +1,6 @@
+> = 3
+> = 7
+> = 41
+> = 2.5
+> = 23.3333
+> Please enter a character to exit

@@ -1,0 +1,53 @@
+James Smith
+Japan, Tokyo, Shinagawa, Higashi-Ooi 3-23-1
+2015/9/30
+apple, 0.45, 8
+banana, 2.02, 1
+
+David Brown
+Japan, Tokyo, Tachikawa, Wakaba-cho 3-44-3
+2014/7/3
+apple jam, 1.56, 2
+strawberry jam, 1.78, 1
+
+David Brown
+Japan, Tokyo, Tachikawa, Wakaba-cho 3-44-3
+2014/8/9
+melon, 16.889, 1
+
+Hans Schmidt
+Japan, Fukuoka, Hakata, Kasuga 2-37-8
+2014/2/9
+bread 2.1 1
+strawberry jam, 1.60, 1
+
+Richard Maria
+Japan, Tokyo, Fussa, Nakagami 14-6
+2014/4/4
+biscuit, 1.33, 10
+
+James Smith
+Japan, Tokyo, Shinagawa, Higashi-Ooi 3-23-1
+2014/1/20
+strawberry, 4.55, 2
+
+Matsumoto Hanako
+Japan, Tokyo, Fussa, Higashi-Nakagami 2-81
+2014/10/11
+apple pie, 1.20, 1
+
+Richard Maria
+Japan, Tokyo, Fussa, Nakagami 14-6
+2015/10/12
+biscuit, 1.33, 2
+
+Matsumoto Hanako
+Japan, Tokyo, Fussa, Higashi-Nakagami 2-81
+2015/10/17
+apple, 0.60, 5
+
+Hans Schmidt
+Japan, Fukuoka, Hakata, Kasuga 2-37-8
+2014/2/8
+bread 2.1 1
+

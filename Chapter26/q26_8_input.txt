@@ -1,0 +1,8 @@
+q26_8_input.txt （入力は各行に1つずつで、呼び出しの括弧以降は無視される。この行はSyntax errorになる。）
+Rectangle(Point(100,170),400,210)		// 外壁
+Line(Point(300, 20),Point(100, 170))	// 屋根 
+Line(Point(300, 20),Point(500, 170))
+Rectangle(Point(130, 220),80, 80)		// 窓
+Rectangle(Point(250, 220),80, 80)
+Rectangle(Point(370, 200), 100, 180)	// ドア
+Circle( Point(385,300),10)				// ドアノブ

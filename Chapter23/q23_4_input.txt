@@ -1,0 +1,15 @@
+----
+Delivered-To: Tanaka@gmail.com
+Received: by 10.36.81.3 with SMTP id e3cs239nzb; Tue, 29 Mar 2005 15:11:47 -0800 (PST)
+Return-Path: 
+Received: from mail.emailprovider.co.jp (mail.emailprovider.co.jp [111.111.11.111]) by mx.gmail.com with SMTP id h19si826631rnb.2005.03.29.15.11.46; Tue, 29 Mar 2005 15:11:47 -0800 (PST)
+Message-ID: <20050329231145.62086.mail@mail.emailprovider.co.jp>
+Received: from [11.11.111.111] by mail.emailprovider.co.jp via HTTP; Tue, 29 Mar 2005 15:11:45 PST
+Date: Tue, 29 Mar 2005 15:11:45 -0800 (PST)
+From: Mr Yamada
+Subject: Hello
+To: Mr Tanaka
+
+Hello, World!!
+----
+----

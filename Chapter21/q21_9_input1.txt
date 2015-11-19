@@ -1,0 +1,58 @@
+James Smith
+Japan, Tokyo, Shinagawa, Higashi-Ooi 3-23-1
+2015/9/30
+apple, 0.45, 8
+banana, 2.02, 1
+
+Matsumoto Hanako
+Japan, Tokyo, Fussa, Higashi-Nakagami 2-81
+2015/10/25
+egg, 0.35, 8
+
+Yamada Taro
+Japan, Saitama, Tokorozawa, Sayamagaoka 2-987-1
+2015/10/15
+chocorate, 0.98, 30
+biscuit, 1.33, 10
+
+Richard Maria
+Japan, Tokyo, Fussa, Nakagami 14-6
+2015/10/12
+biscuit, 1.33, 2
+
+Matsumoto Hanako
+Japan, Tokyo, Fussa, Higashi-Nakagami 2-81
+2015/10/17
+apple, 0.60, 5
+
+Richard Maria
+Japan, Tokyo, Fussa, Nakagami 14-6
+2015/10/19
+magnet, 0.25, 50
+
+Yamada Taro
+Japan, Saitama, Tokorozawa, Sayamagaoka 2-987-1
+2015/10/18
+chocorate, 1.20, 5
+clip, 0.1, 100
+eraser, 0.7, 1
+
+James Smith
+Japan, Tokyo, Shinagawa, Higashi-Ooi 3-23-1
+2015/9/26
+tomato, 0.40, 6
+onion, 0.63, 5
+
+Tommy Tech
+Japan, Tokyo, Shinjuku, Kabukicho 1-2-3
+2015/10/12
+tomato, 0.50, 3
+onion, 0.42, 2
+egg, 0.30, 16
+
+James Smith
+Japan, Tokyo, Shinagawa, Higashi-Ooi 3-23-1
+2015/9/27
+egg, 0.35, 8
+cheese, 3.42, 2
+

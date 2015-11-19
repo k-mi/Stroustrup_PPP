@@ -1,0 +1,27 @@
+// 絶対に勧められないバージョン
+
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <iterator>		// istream_iterator, ostream_iterator
+#include <algorithm>	// copy
+using namespace std;
+
+int main(){
+	string from, to;
+	cin >> from >> to;						// コピー元とコピー先ｎファイル名を取得する
+
+	ifstream is(from.c_str());				// 入力ストリームを開く
+	ofstream os(to.c_str());				// 出力ストリームを開く
+
+	istream_iterator<string> ii(is);		// ストリーム用の入力イテレータを作成する
+	istream_iterator<string> eos;			// 入力の終端を表す
+	ostream_iterator<string> oo(os, "\n");	// ストリーム用の出力イテレータを作成する	
+
+	const int max_size = 5;
+	vector<string> b(max_size);				// bは入力によって初期化されるvector
+	copy(ii, eos, b.begin());
+
+	sort(b.begin(), b.end());				// バッファをソートする
+	copy(b.begin(), b.end(), oo);			// バッファを出力にコピーする
+}
